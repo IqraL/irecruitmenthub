@@ -70,7 +70,7 @@ export const Home = () => {
         or email us:
       </div>
       <a href="mailto:hello@recruitmenthub.com" className="home-email">
-        hello@recruitmenthub.com
+        hello@irecruitmenthub.com
       </a>
     </div>
   );
